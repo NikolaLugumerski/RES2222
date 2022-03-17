@@ -14,7 +14,7 @@ namespace ConsoleApp12312
 				
 		}
 
-		public string noge { get; set; }
+
 		public int MyProperty { get; set; }
 	}
 
